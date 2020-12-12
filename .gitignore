@@ -2,3 +2,5 @@ __pycache__
 output_sound/*
 asyncio
 .env
+input_sound/tts_punchline.ogg
+input_sound/tts_setup.ogg
